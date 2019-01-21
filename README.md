@@ -24,7 +24,7 @@ Term: Fall 2018
 
   - Notebook (`final_model.ipynb`) that shows our final model and its results. 
   - A File(`final_model.h5`) that stores our final model weights.
-  - [A supplementary report](./Tumor Detection on Gigapixel Pathology Images.pdf) that describes our workflow, tuning process and results.
+  - [A supplementary report](Tumor Detection on Gigapixel Pathology Images.pdf) that describes our workflow, tuning process and results.
 
 
 
